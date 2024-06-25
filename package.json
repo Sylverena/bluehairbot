@@ -1,13 +1,13 @@
 {
   "name": "bluehairbot",
   "version": "0.0.1",
-  "description": "",
+  "description": "A bot aiming to add wider accessibility of pronoun use in discord, especially nonstandard ones",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Serena Z.",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.2",
