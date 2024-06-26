@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-//todo concrete implementation
+//todo concrete implementation, get information with await
 export function getMorphemes()
 {
     axios.get('https://pronouns.page/api/pronouns')

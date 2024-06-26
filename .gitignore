@@ -1,7 +1,5 @@
 *.env
 node_modules
 config.json
-index.js
-.js.map
-helpers/*.js
+
 .idea/

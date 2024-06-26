@@ -1,4 +1,6 @@
-require('dotenv').config(); // Require dotenv for token storage
+import dotenv from 'dotenv';
+dotenv.config(); // Require dotenv for token storage
+import {getMorphemes} from "./helpers/pp-https.js";
 
 // Pull token from env and necessary classes from discord.js
 const token = process.env.TOKEN;
@@ -13,3 +15,5 @@ client.once(Events.ClientReady, readyClient => {
 });
 
 client.login(token).then();
+
+console.log(getMorphemes())
