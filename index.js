@@ -16,4 +16,4 @@ client.once(Events.ClientReady, readyClient => {
 
 client.login(token).then();
 
-console.log(getMorphemes())
+console.log()

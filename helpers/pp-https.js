@@ -1,17 +1,14 @@
 import axios from 'axios';
 
 //todo concrete implementation, get information with await
-export function getMorphemes()
+export async function getMorphemes()
 {
-    axios.get('https://pronouns.page/api/pronouns')
-        .then((response) => {
-            const jsonResponse = response.data;
-            const jsonArray = Object.values(jsonResponse);
-
-            console.log(jsonResponse);
-            console.log(jsonArray);
-        })
-        .catch((err) => {
-            console.error(err);
-        })
+    try {
+        const response = await axios.get('https://en.pronouns.page/api/pronouns')
+        return response.data;
+    }
+    catch (error) {
+        console.log(error);
+        throw error;
+    }
 }
