@@ -1,0 +1,1385 @@
+{
+  "he": {
+    "canonicalName": "he",
+    "description": "Normative “he/him”",
+    "normative": true,
+    "morphemes": {
+      "pronoun_subject": "he",
+      "pronoun_object": "him",
+      "possessive_determiner": "his",
+      "possessive_pronoun": "his",
+      "reflexive": "himself"
+    },
+    "pronunciations": {},
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "he/him"
+    ],
+    "history": "",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think he is very nice.",
+      "I met him recently.",
+      "Is this his dog?",
+      "He told me that the house is his.",
+      "He said he would rather do it himself.",
+      "He is really beautiful.",
+      "He answered the phone.",
+      "He takes good care of his cat.",
+      "He did it all by himself.",
+      "He talks in his sleep.",
+      "He landed the plane safely.",
+      "He argues that…",
+      "Did you buy him his gift?",
+      "I asked him if I can borrow his pencil.",
+      "I talked to him yesterday.",
+      "Would you like to go to the movies with him?",
+      "Can you call him when his cat awakes?",
+      "His graduation starts soon.",
+      "My favorite color is purple, his is yellow."
+    ],
+    "name": "he/him"
+  },
+  "she": {
+    "canonicalName": "she",
+    "description": "Normative “she/her”",
+    "normative": true,
+    "morphemes": {
+      "pronoun_subject": "she",
+      "pronoun_object": "her",
+      "possessive_determiner": "her",
+      "possessive_pronoun": "hers",
+      "reflexive": "herself"
+    },
+    "pronunciations": {},
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "she/her"
+    ],
+    "history": "",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think she is very nice.",
+      "I met her recently.",
+      "Is this her dog?",
+      "She told me that the house is hers.",
+      "She said she would rather do it herself.",
+      "She is really beautiful.",
+      "She answered the phone.",
+      "She takes good care of her cat.",
+      "She did it all by herself.",
+      "She talks in her sleep.",
+      "She landed the plane safely.",
+      "She argues that…",
+      "Did you buy her her gift?",
+      "I asked her if I can borrow her pencil.",
+      "I talked to her yesterday.",
+      "Would you like to go to the movies with her?",
+      "Can you call her when her cat awakes?",
+      "Her graduation starts soon.",
+      "My favorite color is purple, hers is yellow."
+    ],
+    "name": "she/her"
+  },
+  "they": {
+    "canonicalName": "they",
+    "description": "Singular “they”",
+    "normative": true,
+    "morphemes": {
+      "pronoun_subject": "they",
+      "pronoun_object": "them",
+      "possessive_determiner": "their",
+      "possessive_pronoun": "theirs",
+      "reflexive": "themselves"
+    },
+    "pronunciations": {},
+    "plural": [
+      true
+    ],
+    "pluralHonorific": [
+      true
+    ],
+    "aliases": [
+      "they/them"
+    ],
+    "history": "Singular “they” has been used in English to describe an unspecified person {https://www.academicwritingsuccess.com/the-astonishing-history-of-singular-they/=since the late 1300s} (it's even older than singular “you”!). Nowadays, it's the most popular choice among people who prefer gender neutral forms. It starts being {https://www.merriam-webster.com/words-at-play/singular-nonbinary-they=accepted by dictionaries} too.@It is also common to use {/they/them/themself=“themself”} as a reflexive form.",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": "reflexive",
+    "sourcesInfo": "This list of sources includes both the version with {/they=“themselves”} and {/they/them/themselves=“themself”}, as well as those that don't happen to use reflexive.",
+    "examples": [
+      "I think they are very nice.",
+      "I met them recently.",
+      "Is this their dog?",
+      "They told me that the house is theirs.",
+      "They said they would rather do it themselves.",
+      "They are really beautiful.",
+      "They answered the phone.",
+      "They take good care of their cat.",
+      "They did it all by themselves.",
+      "They talk in their sleep.",
+      "They landed the plane safely.",
+      "They argue that…",
+      "Did you buy them their gift?",
+      "I asked them if I can borrow their pencil.",
+      "I talked to them yesterday.",
+      "Would you like to go to the movies with them?",
+      "Can you call them when their cat awakes?",
+      "Their graduation starts soon.",
+      "My favorite color is purple, theirs is yellow."
+    ],
+    "name": "they/them"
+  },
+  "they/them/themself": {
+    "canonicalName": "they/them/themself",
+    "description": "Singular “they”",
+    "normative": true,
+    "morphemes": {
+      "pronoun_subject": "they",
+      "pronoun_object": "them",
+      "possessive_determiner": "their",
+      "possessive_pronoun": "theirs",
+      "reflexive": "themself"
+    },
+    "pronunciations": {},
+    "plural": [
+      true
+    ],
+    "pluralHonorific": [
+      true
+    ],
+    "aliases": [],
+    "history": "Singular “they” has been used in English to describe an unspecified person {https://www.academicwritingsuccess.com/the-astonishing-history-of-singular-they/=since the late 1300s} (it's even older than singular “you”!). Nowadays, it's the most popular choice among people who prefer gender neutral forms. It starts being {https://www.merriam-webster.com/words-at-play/singular-nonbinary-they=accepted by dictionaries} too.@It is also common to use {/they=“themselves”} as a reflexive form.",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": "reflexive",
+    "sourcesInfo": "This list of sources includes both the version with {/they=“themselves”} and {/they/them/themselves=“themself”}, as well as those that don't happen to use reflexive.",
+    "examples": [
+      "I think they are very nice.",
+      "I met them recently.",
+      "Is this their dog?",
+      "They told me that the house is theirs.",
+      "They said they would rather do it themself.",
+      "They are really beautiful.",
+      "They answered the phone.",
+      "They take good care of their cat.",
+      "They did it all by themself.",
+      "They talk in their sleep.",
+      "They landed the plane safely.",
+      "They argue that…",
+      "Did you buy them their gift?",
+      "I asked them if I can borrow their pencil.",
+      "I talked to them yesterday.",
+      "Would you like to go to the movies with them?",
+      "Can you call them when their cat awakes?",
+      "Their graduation starts soon.",
+      "My favorite color is purple, theirs is yellow."
+    ],
+    "name": "they/them"
+  },
+  "it": {
+    "canonicalName": "it",
+    "description": "Personal “it”",
+    "normative": true,
+    "morphemes": {
+      "pronoun_subject": "it",
+      "pronoun_object": "it",
+      "possessive_determiner": "its",
+      "possessive_pronoun": "its",
+      "reflexive": "itself"
+    },
+    "pronunciations": {},
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "it/it",
+      "it/its"
+    ],
+    "history": "Although “it” is normally used for objects, not people, some actually do like being called that way. If someone wants you to call it “it”, it's not offensive – it's actually respectful. But remember that it/its pronouns have a history of transphobic use, so only with people who explicitly wish it.",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think it is very nice.",
+      "I met it recently.",
+      "Is this its dog?",
+      "It told me that the house is its.",
+      "It said it would rather do it itself.",
+      "It is really beautiful.",
+      "It answered the phone.",
+      "It takes good care of its cat.",
+      "It did it all by itself.",
+      "It talks in its sleep.",
+      "It landed the plane safely.",
+      "It argues that…",
+      "Did you buy it its gift?",
+      "I asked it if I can borrow its pencil.",
+      "I talked to it yesterday.",
+      "Would you like to go to the movies with it?",
+      "Can you call it when its cat awakes?",
+      "Its graduation starts soon.",
+      "My favorite color is purple, its is yellow."
+    ],
+    "name": "it/its"
+  },
+  "one": {
+    "canonicalName": "one",
+    "description": "Specific “one”",
+    "normative": true,
+    "morphemes": {
+      "pronoun_subject": "one",
+      "pronoun_object": "one",
+      "possessive_determiner": "one's",
+      "possessive_pronoun": "one's",
+      "reflexive": "oneself"
+    },
+    "pronunciations": {},
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "one/one's"
+    ],
+    "history": "“One” is used in formal English when talking about a general or a hypothetical person. Recently people started using “one” also as their personal pronoun.",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think one is very nice.",
+      "I met one recently.",
+      "Is this one's dog?",
+      "One told me that the house is one's.",
+      "One said one would rather do it oneself.",
+      "One is really beautiful.",
+      "One answered the phone.",
+      "One takes good care of one's cat.",
+      "One did it all by oneself.",
+      "One talks in one's sleep.",
+      "One landed the plane safely.",
+      "One argues that…",
+      "Did you buy one one's gift?",
+      "I asked one if I can borrow one's pencil.",
+      "I talked to one yesterday.",
+      "Would you like to go to the movies with one?",
+      "Can you call one when one's cat awakes?",
+      "One's graduation starts soon.",
+      "My favorite color is purple, one's is yellow."
+    ],
+    "name": "one/one's"
+  },
+  "ae": {
+    "canonicalName": "ae",
+    "description": "Neopronoun “ae” / “æ”",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "ae",
+      "pronoun_object": "aer",
+      "possessive_determiner": "aer",
+      "possessive_pronoun": "aers",
+      "reflexive": "aerself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "eɪ",
+      "pronoun_object": "ɛɹ",
+      "possessive_determiner": "ɛɹ",
+      "possessive_pronoun": "ɛɹz",
+      "reflexive": "ɛɹˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "æ",
+      "ae/aer",
+      "æ/ær"
+    ],
+    "history": "Created by David Lindsay for a 1920 novel <em>A Voyage to Arcturus</em>, where it's used by an alien, third-sex species.",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think ae is very nice.",
+      "I met aer recently.",
+      "Is this aer dog?",
+      "Ae told me that the house is aers.",
+      "Ae said ae would rather do it aerself.",
+      "Ae is really beautiful.",
+      "Ae answered the phone.",
+      "Ae takes good care of aer cat.",
+      "Ae did it all by aerself.",
+      "Ae talks in aer sleep.",
+      "Ae landed the plane safely.",
+      "Ae argues that…",
+      "Did you buy aer aer gift?",
+      "I asked aer if I can borrow aer pencil.",
+      "I talked to aer yesterday.",
+      "Would you like to go to the movies with aer?",
+      "Can you call aer when aer cat awakes?",
+      "Aer graduation starts soon.",
+      "My favorite color is purple, aers is yellow."
+    ],
+    "name": "ae/aer"
+  },
+  "co": {
+    "canonicalName": "co",
+    "description": "Neopronoun “co/cos”",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "co",
+      "pronoun_object": "co",
+      "possessive_determiner": "cos",
+      "possessive_pronoun": "co's",
+      "reflexive": "coself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "ko",
+      "pronoun_object": "ko",
+      "possessive_determiner": "koz",
+      "possessive_pronoun": "koz",
+      "reflexive": "koˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "co/cos"
+    ],
+    "history": "Created by Mary Orovan in 1970, derived from the Indo-European <em>*ko</em>.",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think co is very nice.",
+      "I met co recently.",
+      "Is this cos dog?",
+      "Co told me that the house is co's.",
+      "Co said co would rather do it coself.",
+      "Co is really beautiful.",
+      "Co answered the phone.",
+      "Co takes good care of cos cat.",
+      "Co did it all by coself.",
+      "Co talks in cos sleep.",
+      "Co landed the plane safely.",
+      "Co argues that…",
+      "Did you buy co cos gift?",
+      "I asked co if I can borrow cos pencil.",
+      "I talked to co yesterday.",
+      "Would you like to go to the movies with co?",
+      "Can you call co when cos cat awakes?",
+      "Cos graduation starts soon.",
+      "My favorite color is purple, co's is yellow."
+    ],
+    "name": "co/cos"
+  },
+  "e": {
+    "canonicalName": "e",
+    "description": "Spivak pronouns",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "e",
+      "pronoun_object": "em",
+      "possessive_determiner": "eir",
+      "possessive_pronoun": "eirs",
+      "reflexive": "emself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "i",
+      "pronoun_object": "ɛm",
+      "possessive_determiner": "ɛɹ",
+      "possessive_pronoun": "ɛɹz",
+      "reflexive": "ɛmˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "e/em/eir"
+    ],
+    "history": "Coined by Michael Spivak in 1990 for his manual <em>The Joy of TeX</em> to avoid gendering people in the examples.",
+    "pronounceable": true,
+    "thirdForm": "possessive_determiner",
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think e is very nice.",
+      "I met em recently.",
+      "Is this eir dog?",
+      "E told me that the house is eirs.",
+      "E said e would rather do it emself.",
+      "E is really beautiful.",
+      "E answered the phone.",
+      "E takes good care of eir cat.",
+      "E did it all by emself.",
+      "E talks in eir sleep.",
+      "E landed the plane safely.",
+      "E argues that…",
+      "Did you buy em eir gift?",
+      "I asked em if I can borrow eir pencil.",
+      "I talked to em yesterday.",
+      "Would you like to go to the movies with em?",
+      "Can you call em when eir cat awakes?",
+      "Eir graduation starts soon.",
+      "My favorite color is purple, eirs is yellow."
+    ],
+    "name": "e/em/eir"
+  },
+  "e/em/es": {
+    "canonicalName": "e/em/es",
+    "description": "Neopronoun “e/em/es”",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "e",
+      "pronoun_object": "em",
+      "possessive_determiner": "es",
+      "possessive_pronoun": "ems",
+      "reflexive": "emself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "i",
+      "pronoun_object": "ɛm",
+      "possessive_determiner": "iz",
+      "possessive_pronoun": "ɛmz",
+      "reflexive": "ɛmˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [],
+    "history": "First coined by {https://blogs.illinois.edu/view/25/667453458=Francis Augustus Brewsterin in 1841}, but also often credited to {https://medium.com/matthews-place/the-history-of-neopronouns-366b1fee48c4=James Rogers in 1890}. Since then multiple versions were created, differing in declension and capitalisation.",
+    "pronounceable": true,
+    "thirdForm": "possessive_determiner",
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think e is very nice.",
+      "I met em recently.",
+      "Is this es dog?",
+      "E told me that the house is ems.",
+      "E said e would rather do it emself.",
+      "E is really beautiful.",
+      "E answered the phone.",
+      "E takes good care of es cat.",
+      "E did it all by emself.",
+      "E talks in es sleep.",
+      "E landed the plane safely.",
+      "E argues that…",
+      "Did you buy em es gift?",
+      "I asked em if I can borrow es pencil.",
+      "I talked to em yesterday.",
+      "Would you like to go to the movies with em?",
+      "Can you call em when es cat awakes?",
+      "Es graduation starts soon.",
+      "My favorite color is purple, ems is yellow."
+    ],
+    "name": "e/em/es"
+  },
+  "ey": {
+    "canonicalName": "ey",
+    "description": "Elverson pronouns",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "ey",
+      "pronoun_object": "em",
+      "possessive_determiner": "eir",
+      "possessive_pronoun": "eirs",
+      "reflexive": "emself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "eɪ",
+      "pronoun_object": "ɛm",
+      "possessive_determiner": "ɛɹ",
+      "possessive_pronoun": "ɛɹz",
+      "reflexive": "ɛmˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "ey/em"
+    ],
+    "history": "{https://web.archive.org/web/20211130005355/https://research.cristanwilliams.com/2012/02/24/1975-transgender-cross-gender/=Coined by Christine M. Elverson} in 1975 for a contest to create an alternative to the singular {/they=they}. Those forms are created by dropping “th” from “they”.",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think ey is very nice.",
+      "I met em recently.",
+      "Is this eir dog?",
+      "Ey told me that the house is eirs.",
+      "Ey said ey would rather do it emself.",
+      "Ey is really beautiful.",
+      "Ey answered the phone.",
+      "Ey takes good care of eir cat.",
+      "Ey did it all by emself.",
+      "Ey talks in eir sleep.",
+      "Ey landed the plane safely.",
+      "Ey argues that…",
+      "Did you buy em eir gift?",
+      "I asked em if I can borrow eir pencil.",
+      "I talked to em yesterday.",
+      "Would you like to go to the movies with em?",
+      "Can you call em when eir cat awakes?",
+      "Eir graduation starts soon.",
+      "My favorite color is purple, eirs is yellow."
+    ],
+    "name": "ey/em"
+  },
+  "fae": {
+    "canonicalName": "fae",
+    "description": "Neopronoun “fae/faer”",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "fae",
+      "pronoun_object": "faer",
+      "possessive_determiner": "faer",
+      "possessive_pronoun": "faers",
+      "reflexive": "faerself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "feɪ",
+      "pronoun_object": "fɛɹ",
+      "possessive_determiner": "fɛɹ",
+      "possessive_pronoun": "fɛɹz",
+      "reflexive": "fɛɹˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "fæ",
+      "fae/faer",
+      "fæ/fær"
+    ],
+    "history": "Created in 2014 by Tumblr user shadaras.",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think fae is very nice.",
+      "I met faer recently.",
+      "Is this faer dog?",
+      "Fae told me that the house is faers.",
+      "Fae said fae would rather do it faerself.",
+      "Fae is really beautiful.",
+      "Fae answered the phone.",
+      "Fae takes good care of faer cat.",
+      "Fae did it all by faerself.",
+      "Fae talks in faer sleep.",
+      "Fae landed the plane safely.",
+      "Fae argues that…",
+      "Did you buy faer faer gift?",
+      "I asked faer if I can borrow faer pencil.",
+      "I talked to faer yesterday.",
+      "Would you like to go to the movies with faer?",
+      "Can you call faer when faer cat awakes?",
+      "Faer graduation starts soon.",
+      "My favorite color is purple, faers is yellow."
+    ],
+    "name": "fae/faer"
+  },
+  "hu": {
+    "canonicalName": "hu",
+    "description": "Humanist pronouns",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "hu",
+      "pronoun_object": "hum",
+      "possessive_determiner": "hus",
+      "possessive_pronoun": "hus",
+      "reflexive": "huself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "hju",
+      "pronoun_object": "hjum",
+      "possessive_determiner": "hjuz",
+      "possessive_pronoun": "hjuz",
+      "reflexive": "hjuˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "hu/hum"
+    ],
+    "history": "Coined by Sasha Newborn in 1982, based on the word “human”.",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think hu is very nice.",
+      "I met hum recently.",
+      "Is this hus dog?",
+      "Hu told me that the house is hus.",
+      "Hu said hu would rather do it huself.",
+      "Hu is really beautiful.",
+      "Hu answered the phone.",
+      "Hu takes good care of hus cat.",
+      "Hu did it all by huself.",
+      "Hu talks in hus sleep.",
+      "Hu landed the plane safely.",
+      "Hu argues that…",
+      "Did you buy hum hus gift?",
+      "I asked hum if I can borrow hus pencil.",
+      "I talked to hum yesterday.",
+      "Would you like to go to the movies with hum?",
+      "Can you call hum when hus cat awakes?",
+      "Hus graduation starts soon.",
+      "My favorite color is purple, hus is yellow."
+    ],
+    "name": "hu/hum"
+  },
+  "ne": {
+    "canonicalName": "ne",
+    "description": "Neopronoun “ne/nem”",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "ne",
+      "pronoun_object": "nem",
+      "possessive_determiner": "nir",
+      "possessive_pronoun": "nirs",
+      "reflexive": "nemself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "ni",
+      "pronoun_object": "nəm",
+      "possessive_determiner": "nəɹ",
+      "possessive_pronoun": "nəɹz",
+      "reflexive": "nəmˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "ne/nem"
+    ],
+    "history": "",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think ne is very nice.",
+      "I met nem recently.",
+      "Is this nir dog?",
+      "Ne told me that the house is nirs.",
+      "Ne said ne would rather do it nemself.",
+      "Ne is really beautiful.",
+      "Ne answered the phone.",
+      "Ne takes good care of nir cat.",
+      "Ne did it all by nemself.",
+      "Ne talks in nir sleep.",
+      "Ne landed the plane safely.",
+      "Ne argues that…",
+      "Did you buy nem nir gift?",
+      "I asked nem if I can borrow nir pencil.",
+      "I talked to nem yesterday.",
+      "Would you like to go to the movies with nem?",
+      "Can you call nem when nir cat awakes?",
+      "Nir graduation starts soon.",
+      "My favorite color is purple, nirs is yellow."
+    ],
+    "name": "ne/nem"
+  },
+  "ne/nir": {
+    "canonicalName": "ne/nir",
+    "description": "Neopronoun “ne/nir”",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "ne",
+      "pronoun_object": "nir",
+      "possessive_determiner": "nir",
+      "possessive_pronoun": "nirs",
+      "reflexive": "nirself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "ni",
+      "pronoun_object": "nəɹ",
+      "possessive_determiner": "nəɹ",
+      "possessive_pronoun": "nəɹz",
+      "reflexive": "nəɹˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [],
+    "history": "",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think ne is very nice.",
+      "I met nir recently.",
+      "Is this nir dog?",
+      "Ne told me that the house is nirs.",
+      "Ne said ne would rather do it nirself.",
+      "Ne is really beautiful.",
+      "Ne answered the phone.",
+      "Ne takes good care of nir cat.",
+      "Ne did it all by nirself.",
+      "Ne talks in nir sleep.",
+      "Ne landed the plane safely.",
+      "Ne argues that…",
+      "Did you buy nir nir gift?",
+      "I asked nir if I can borrow nir pencil.",
+      "I talked to nir yesterday.",
+      "Would you like to go to the movies with nir?",
+      "Can you call nir when nir cat awakes?",
+      "Nir graduation starts soon.",
+      "My favorite color is purple, nirs is yellow."
+    ],
+    "name": "ne/nir"
+  },
+  "per": {
+    "canonicalName": "per",
+    "description": "Person pronouns",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "per",
+      "pronoun_object": "per",
+      "possessive_determiner": "per",
+      "possessive_pronoun": "pers",
+      "reflexive": "perself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "pəɹ",
+      "pronoun_object": "pəɹ",
+      "possessive_determiner": "pəɹ",
+      "possessive_pronoun": "pəɹz",
+      "reflexive": "pəɹˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "per/per"
+    ],
+    "history": "Coined by John Clark in an issue of the <em>Newsletter of the American Anthropological Association</em> in 1972, derived from the word “person”.",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think per is very nice.",
+      "I met per recently.",
+      "Is this per dog?",
+      "Per told me that the house is pers.",
+      "Per said per would rather do it perself.",
+      "Per is really beautiful.",
+      "Per answered the phone.",
+      "Per takes good care of per cat.",
+      "Per did it all by perself.",
+      "Per talks in per sleep.",
+      "Per landed the plane safely.",
+      "Per argues that…",
+      "Did you buy per per gift?",
+      "I asked per if I can borrow per pencil.",
+      "I talked to per yesterday.",
+      "Would you like to go to the movies with per?",
+      "Can you call per when per cat awakes?",
+      "Per graduation starts soon.",
+      "My favorite color is purple, pers is yellow."
+    ],
+    "name": "per/per"
+  },
+  "s/he": {
+    "canonicalName": "s/he",
+    "description": "Neopronoun “s/he”",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "s/he",
+      "pronoun_object": "hir",
+      "possessive_determiner": "hir",
+      "possessive_pronoun": "hirs",
+      "reflexive": "hirself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "shi",
+      "pronoun_object": "hɪɹ",
+      "possessive_determiner": "hɪɹ",
+      "possessive_pronoun": "hɪɹz",
+      "reflexive": "hɪɹˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "s/he/hir"
+    ],
+    "history": "",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think s/he is very nice.",
+      "I met hir recently.",
+      "Is this hir dog?",
+      "S/he told me that the house is hirs.",
+      "S/he said s/he would rather do it hirself.",
+      "S/he is really beautiful.",
+      "S/he answered the phone.",
+      "S/he takes good care of hir cat.",
+      "S/he did it all by hirself.",
+      "S/he talks in hir sleep.",
+      "S/he landed the plane safely.",
+      "S/he argues that…",
+      "Did you buy hir hir gift?",
+      "I asked hir if I can borrow hir pencil.",
+      "I talked to hir yesterday.",
+      "Would you like to go to the movies with hir?",
+      "Can you call hir when hir cat awakes?",
+      "Hir graduation starts soon.",
+      "My favorite color is purple, hirs is yellow."
+    ],
+    "name": "s/he/hir"
+  },
+  "thon": {
+    "canonicalName": "thon",
+    "description": "Neopronoun “thon”",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "thon",
+      "pronoun_object": "thon",
+      "possessive_determiner": "thons",
+      "possessive_pronoun": "thon's",
+      "reflexive": "thonself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "ðɑn",
+      "pronoun_object": "ðɑn",
+      "possessive_determiner": "ðɑnz",
+      "possessive_pronoun": "ðɑnz",
+      "reflexive": "ðɑnˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "thon/thons"
+    ],
+    "history": "Created by Charles Crozat Converse in 1858, thon/thons/thonself is one of the first known examples of creating a gender neutral pronoun. “Thon” is a contraction of “that one”.",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think thon is very nice.",
+      "I met thon recently.",
+      "Is this thons dog?",
+      "Thon told me that the house is thon's.",
+      "Thon said thon would rather do it thonself.",
+      "Thon is really beautiful.",
+      "Thon answered the phone.",
+      "Thon takes good care of thons cat.",
+      "Thon did it all by thonself.",
+      "Thon talks in thons sleep.",
+      "Thon landed the plane safely.",
+      "Thon argues that…",
+      "Did you buy thon thons gift?",
+      "I asked thon if I can borrow thons pencil.",
+      "I talked to thon yesterday.",
+      "Would you like to go to the movies with thon?",
+      "Can you call thon when thons cat awakes?",
+      "Thons graduation starts soon.",
+      "My favorite color is purple, thon's is yellow."
+    ],
+    "name": "thon/thons"
+  },
+  "ve": {
+    "canonicalName": "ve",
+    "description": "Neopronoun “ve/ver”",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "ve",
+      "pronoun_object": "ver",
+      "possessive_determiner": "vis",
+      "possessive_pronoun": "vis",
+      "reflexive": "verself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "vi",
+      "pronoun_object": "vəɹ",
+      "possessive_determiner": "viz",
+      "possessive_pronoun": "viz",
+      "reflexive": "vəɹˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "ve/ver"
+    ],
+    "history": "Used eg. by Greg Egan in <em>Distress</em> (1995) and <em>Diaspora</em> (1998), and by Keri Hulme in <em>The Bone People</em> (1984).",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think ve is very nice.",
+      "I met ver recently.",
+      "Is this vis dog?",
+      "Ve told me that the house is vis.",
+      "Ve said ve would rather do it verself.",
+      "Ve is really beautiful.",
+      "Ve answered the phone.",
+      "Ve takes good care of vis cat.",
+      "Ve did it all by verself.",
+      "Ve talks in vis sleep.",
+      "Ve landed the plane safely.",
+      "Ve argues that…",
+      "Did you buy ver vis gift?",
+      "I asked ver if I can borrow vis pencil.",
+      "I talked to ver yesterday.",
+      "Would you like to go to the movies with ver?",
+      "Can you call ver when vis cat awakes?",
+      "Vis graduation starts soon.",
+      "My favorite color is purple, vis is yellow."
+    ],
+    "name": "ve/ver"
+  },
+  "vi": {
+    "canonicalName": "vi",
+    "description": "Neopronoun “vi/vir”",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "vi",
+      "pronoun_object": "vir",
+      "possessive_determiner": "vis",
+      "possessive_pronoun": "virs",
+      "reflexive": "virself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "vi",
+      "pronoun_object": "viɹ",
+      "possessive_determiner": "viz",
+      "possessive_pronoun": "viɹz",
+      "reflexive": "viɹˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "vi/vir"
+    ],
+    "history": "",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think vi is very nice.",
+      "I met vir recently.",
+      "Is this vis dog?",
+      "Vi told me that the house is virs.",
+      "Vi said vi would rather do it virself.",
+      "Vi is really beautiful.",
+      "Vi answered the phone.",
+      "Vi takes good care of vis cat.",
+      "Vi did it all by virself.",
+      "Vi talks in vis sleep.",
+      "Vi landed the plane safely.",
+      "Vi argues that…",
+      "Did you buy vir vis gift?",
+      "I asked vir if I can borrow vis pencil.",
+      "I talked to vir yesterday.",
+      "Would you like to go to the movies with vir?",
+      "Can you call vir when vis cat awakes?",
+      "Vis graduation starts soon.",
+      "My favorite color is purple, virs is yellow."
+    ],
+    "name": "vi/vir"
+  },
+  "vi/vim": {
+    "canonicalName": "vi/vim",
+    "description": "Neopronoun “vi/vim”",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "vi",
+      "pronoun_object": "vim",
+      "possessive_determiner": "vis",
+      "possessive_pronoun": "vims",
+      "reflexive": "vimself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "vi",
+      "pronoun_object": "vɪm",
+      "possessive_determiner": "vɪs",
+      "possessive_pronoun": "vɪms",
+      "reflexive": "vɪmˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [],
+    "history": "",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think vi is very nice.",
+      "I met vim recently.",
+      "Is this vis dog?",
+      "Vi told me that the house is vims.",
+      "Vi said vi would rather do it vimself.",
+      "Vi is really beautiful.",
+      "Vi answered the phone.",
+      "Vi takes good care of vis cat.",
+      "Vi did it all by vimself.",
+      "Vi talks in vis sleep.",
+      "Vi landed the plane safely.",
+      "Vi argues that…",
+      "Did you buy vim vis gift?",
+      "I asked vim if I can borrow vis pencil.",
+      "I talked to vim yesterday.",
+      "Would you like to go to the movies with vim?",
+      "Can you call vim when vis cat awakes?",
+      "Vis graduation starts soon.",
+      "My favorite color is purple, vims is yellow."
+    ],
+    "name": "vi/vim"
+  },
+  "xe": {
+    "canonicalName": "xe",
+    "description": "Neopronoun “xe/xem”",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "xe",
+      "pronoun_object": "xem",
+      "possessive_determiner": "xyr",
+      "possessive_pronoun": "xyrs",
+      "reflexive": "xemself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "zi",
+      "pronoun_object": "zɛm",
+      "possessive_determiner": "ziɹ",
+      "possessive_pronoun": "ziɹz",
+      "reflexive": "zɛmˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "xe/xem"
+    ],
+    "history": "Coined by Don Rickter in an issue of <em>Unitarian Universalist</em> in 1973.",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think xe is very nice.",
+      "I met xem recently.",
+      "Is this xyr dog?",
+      "Xe told me that the house is xyrs.",
+      "Xe said xe would rather do it xemself.",
+      "Xe is really beautiful.",
+      "Xe answered the phone.",
+      "Xe takes good care of xyr cat.",
+      "Xe did it all by xemself.",
+      "Xe talks in xyr sleep.",
+      "Xe landed the plane safely.",
+      "Xe argues that…",
+      "Did you buy xem xyr gift?",
+      "I asked xem if I can borrow xyr pencil.",
+      "I talked to xem yesterday.",
+      "Would you like to go to the movies with xem?",
+      "Can you call xem when xyr cat awakes?",
+      "Xyr graduation starts soon.",
+      "My favorite color is purple, xyrs is yellow."
+    ],
+    "name": "xe/xem"
+  },
+  "ze": {
+    "canonicalName": "ze",
+    "description": "Neopronoun “ze/hir”",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "ze",
+      "pronoun_object": "hir",
+      "possessive_determiner": "hir",
+      "possessive_pronoun": "hirs",
+      "reflexive": "hirself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "zi",
+      "pronoun_object": "hɪɹ",
+      "possessive_determiner": "hɪɹ",
+      "possessive_pronoun": "hɪɹz",
+      "reflexive": "hɪɹˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "ze/hir"
+    ],
+    "history": "<em>Hir</em> was first proposed {https://blogs.illinois.edu/view/25/809608=in 1920} in <em>Sacramento Bee</em>. Spelt as <em>hier</em>, it was proposed in {https://public.oed.com/blog/new-words-in-the-oed-march-2019/=1910} in Baltimore <em>Sun</em>.",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think ze is very nice.",
+      "I met hir recently.",
+      "Is this hir dog?",
+      "Ze told me that the house is hirs.",
+      "Ze said ze would rather do it hirself.",
+      "Ze is really beautiful.",
+      "Ze answered the phone.",
+      "Ze takes good care of hir cat.",
+      "Ze did it all by hirself.",
+      "Ze talks in hir sleep.",
+      "Ze landed the plane safely.",
+      "Ze argues that…",
+      "Did you buy hir hir gift?",
+      "I asked hir if I can borrow hir pencil.",
+      "I talked to hir yesterday.",
+      "Would you like to go to the movies with hir?",
+      "Can you call hir when hir cat awakes?",
+      "Hir graduation starts soon.",
+      "My favorite color is purple, hirs is yellow."
+    ],
+    "name": "ze/hir"
+  },
+  "ze/zir": {
+    "canonicalName": "ze/zir",
+    "description": "Neopronoun “ze/zir”",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "ze",
+      "pronoun_object": "zir",
+      "possessive_determiner": "zir",
+      "possessive_pronoun": "zirs",
+      "reflexive": "zirself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "zi",
+      "pronoun_object": "zəɹ",
+      "possessive_determiner": "zəɹ",
+      "possessive_pronoun": "zəɹz",
+      "reflexive": "zəɹˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [],
+    "history": "Derived from {ze/hir=ze/hir} {https://public.oed.com/blog/new-words-in-the-oed-march-2019/=in the 1990s}, with a history reaching as far back as {https://blogs.illinois.edu/view/25/705317=1848}. {https://www.pugetsound.edu/sites/default/files/2022-11/history-of-gender-neutral-pronoun.pdf=Coining in 1972}, as <em>ze/zim/zees/zeeself</em>, was based on the German plural 3rd person pronoun <em>sie</em>.",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think ze is very nice.",
+      "I met zir recently.",
+      "Is this zir dog?",
+      "Ze told me that the house is zirs.",
+      "Ze said ze would rather do it zirself.",
+      "Ze is really beautiful.",
+      "Ze answered the phone.",
+      "Ze takes good care of zir cat.",
+      "Ze did it all by zirself.",
+      "Ze talks in zir sleep.",
+      "Ze landed the plane safely.",
+      "Ze argues that…",
+      "Did you buy zir zir gift?",
+      "I asked zir if I can borrow zir pencil.",
+      "I talked to zir yesterday.",
+      "Would you like to go to the movies with zir?",
+      "Can you call zir when zir cat awakes?",
+      "Zir graduation starts soon.",
+      "My favorite color is purple, zirs is yellow."
+    ],
+    "name": "ze/zir"
+  },
+  "zhe": {
+    "canonicalName": "zhe",
+    "description": "Neopronoun “zhe/zher”",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "zhe",
+      "pronoun_object": "zher",
+      "possessive_determiner": "zher",
+      "possessive_pronoun": "zhers",
+      "reflexive": "zherself"
+    },
+    "pronunciations": {
+      "pronoun_subject": "ʒi",
+      "pronoun_object": "ʒəɹ",
+      "possessive_determiner": "ʒəɹ",
+      "possessive_pronoun": "ʒəɹz",
+      "reflexive": "ʒəɹˈsɛlf"
+    },
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "zhe/zher"
+    ],
+    "history": "",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think zhe is very nice.",
+      "I met zher recently.",
+      "Is this zher dog?",
+      "Zhe told me that the house is zhers.",
+      "Zhe said zhe would rather do it zherself.",
+      "Zhe is really beautiful.",
+      "Zhe answered the phone.",
+      "Zhe takes good care of zher cat.",
+      "Zhe did it all by zherself.",
+      "Zhe talks in zher sleep.",
+      "Zhe landed the plane safely.",
+      "Zhe argues that…",
+      "Did you buy zher zher gift?",
+      "I asked zher if I can borrow zher pencil.",
+      "I talked to zher yesterday.",
+      "Would you like to go to the movies with zher?",
+      "Can you call zher when zher cat awakes?",
+      "Zher graduation starts soon.",
+      "My favorite color is purple, zhers is yellow."
+    ],
+    "name": "zhe/zher"
+  },
+  "ki": {
+    "canonicalName": "ki",
+    "description": "Kinship pronouns",
+    "normative": false,
+    "morphemes": {
+      "pronoun_subject": "ki",
+      "pronoun_object": "kin",
+      "possessive_determiner": "kins",
+      "possessive_pronoun": "kins",
+      "reflexive": "kinself"
+    },
+    "pronunciations": {},
+    "plural": [
+      false
+    ],
+    "pluralHonorific": [
+      false
+    ],
+    "aliases": [
+      "ki/kin"
+    ],
+    "history": "{https://www.yesmagazine.org/issue/together-earth/2015/03/30/alternative-grammar-a-new-language-of-kinship=Created by Robin Wall Kimmerer} to counteract the objectification of the natural world and to recognise living beings as distinct from inanimate objects (“it”). The pronoun set was {https://karahuntermoon.com/2023/05/19/more-on-ki-and-kin-pronouns/=adjusted by Kara Huntermoon} to make it more consistent with existing English grammar rules.",
+    "pronounceable": true,
+    "thirdForm": null,
+    "smallForm": null,
+    "sourcesInfo": null,
+    "examples": [
+      "I think ki is very nice.",
+      "I met kin recently.",
+      "Is this kins dog?",
+      "Ki told me that the house is kins.",
+      "Ki said ki would rather do it kinself.",
+      "Ki is really beautiful.",
+      "Ki answered the phone.",
+      "Ki takes good care of kins cat.",
+      "Ki did it all by kinself.",
+      "Ki talks in kins sleep.",
+      "Ki landed the plane safely.",
+      "Ki argues that…",
+      "Did you buy kin kins gift?",
+      "I asked kin if I can borrow kins pencil.",
+      "I talked to kin yesterday.",
+      "Would you like to go to the movies with kin?",
+      "Can you call kin when kins cat awakes?",
+      "Kins graduation starts soon.",
+      "My favorite color is purple, kins is yellow."
+    ],
+    "name": "ki/kin"
+  }
+}
